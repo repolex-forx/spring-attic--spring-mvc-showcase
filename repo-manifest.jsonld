@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/spring-attic/spring-mvc-showcase/commit/71d8c7e3432b226f09092dd13a7cfe2298fdd265",
       "git:hexsha": "71d8c7e3432b226f09092dd13a7cfe2298fdd265",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
